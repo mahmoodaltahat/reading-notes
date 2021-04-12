@@ -9,16 +9,16 @@
 ###  the differences between a fixed and a growth mindset shown as in the Figure below:
 
 <p align="center">
-  
   <img width="500" src="https://user-images.githubusercontent.com/20397209/114374291-272e3b00-9b8c-11eb-97b0-188d31d019b5.png" alt="Material Bread logo">
 </p>
 
 ### Perseverance, gumption traps, and maintaining a growth mindset:
-- Challenges: coding problem. 
-- Obstacles:roadblock.
-- Effort.
-- Criticism.
-- Success of others.
+
+- *Challenges: coding problem. 
+- *Obstacles:roadblock.
+- *Effort.
+- *Criticism.
+- *Success of others.
 
 
 [Referance](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
