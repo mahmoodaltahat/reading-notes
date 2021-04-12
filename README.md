@@ -22,6 +22,7 @@
 * Criticism.
 * Success of others.
 
+[read01.md](read01.md)
 
 [Referance](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
