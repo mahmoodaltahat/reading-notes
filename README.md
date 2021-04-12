@@ -13,5 +13,5 @@
 - Success of others.
 
 
-[](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+[https://mahmoodaltahat.github.io/reading-notes/](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
