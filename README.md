@@ -1,3 +1,9 @@
+### my name is mahmood altahat,and i'm an electrical engineer.
+********************
+|num||read|
+|1||[raad01.md](raad01.md)|
+|1||[raad02.md](raad02.md)|
+
 
 # **Growth Mindset**
 
