@@ -23,6 +23,6 @@
 * Success of others.
 
 [read01.md](read01.md)
-
+[read02.md](read02.md)
 [Referance](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
