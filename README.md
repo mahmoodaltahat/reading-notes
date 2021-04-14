@@ -3,10 +3,11 @@
 
 |num|read|
 |---|----|
-|1|[read01.md]  (read01.md)|
-|2|[read02.md]  (read02.md)|
-|3|[read03.md]  (read03.md)|
+|1|[read01.md](read01.md)  |
+|2|[read02.md](read02.md)  |
+|3|[read03.md](read03.md)  |
 |4|[read04a.md](read04a.md)|
+
 # **Growth Mindset**
 
 
