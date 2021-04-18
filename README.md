@@ -10,7 +10,7 @@
 |5|[read04b.md](read04b.md)|
 |6|[read05.md](read05.md)  |
 |7|[read06.md](read06.md)  |
-
+|8|[read07.md](read07.md)  |
 
 # **Growth Mindset**
 
