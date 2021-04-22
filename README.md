@@ -12,6 +12,7 @@
 |7|[read06.md](read06.md)  |
 |8|[read07.md](read07.md)  |
 |9|[read09.md](read09.md)  |
+
 # **Growth Mindset**
 
 
