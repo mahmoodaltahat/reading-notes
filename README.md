@@ -3,15 +3,18 @@
 
 |num|read|
 |---|----|
-|1|[read01.md](read01.md)  |
-|2|[read02.md](read02.md)  |
-|3|[read03.md](read03.md)  |
-|4|[read04a.md](read04a.md)|
-|5|[read04b.md](read04b.md)|
-|6|[read05.md](read05.md)  |
-|7|[read06.md](read06.md)  |
-|8|[read07.md](read07.md)  |
-|9|[read09.md](read09.md)  |
+| 1 |**102 Reading Notes**   |
+|1-1|[read01.md](read01.md)  |
+|1-2|[read02.md](read02.md)  |
+|1-3|[read03.md](read03.md)  |
+|1-4|[read04a.md](read04a.md)|
+|1-5|[read04b.md](read04b.md)|
+|1-6|[read05.md](read05.md)  |
+|1-7|[read06.md](read06.md)  |
+|1-8|[read07.md](read07.md)  |
+|1-9|[read09.md](read09.md)  |
+| 2 |**202 Reading Notes**   |
+|2-1|[class-01.md](class-01.md)|
 
 # **Growth Mindset**
 
