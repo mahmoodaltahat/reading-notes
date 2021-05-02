@@ -21,7 +21,7 @@
 |2-3|[class-03.md](class-03.md)|
 |2-4|[class-04.md](class-04.md)|
 |2-5|[class-05.md](class-05.md)|
-|2-6|[class-05.md](class-05.md)|
+|2-6|[class-06.md](class-06.md)|
 
 # **Growth Mindset**
 
